@@ -4,11 +4,19 @@ He need to pluck up the courage and slay all of the monsters that are plaguing
 the land with destruction and fear. 
  Good luck!
 
-| [:rocket: Go ahead and play !](https://simmer.io/@bladerunner40k/~39744529-2989-ea7d-1761-b991af770ca7) |
+| [:rocket: Go ahead and play !](https://simmer.io) |
 | --------------- | 
 
 ## Screenshots
 
-![gamescreen](https://user-images.githubusercontent.com/45365067/78762555-ab078300-798c-11ea-87cb-bbd5f57f5890.png)
+![gamescreen1](https://github.com/mariayurchenko/UnityProject/blob/master/Screen/game1.PNG)
 
-![gamescreen2](https://user-images.githubusercontent.com/45365067/78705841-c5067e80-7916-11ea-8c21-cb6135dad17f.png)
+![gamescreen2](https://github.com/mariayurchenko/UnityProject/blob/master/Screen/game2.PNG)
+
+![gamescreen2](https://github.com/mariayurchenko/UnityProject/blob/master/Screen/level1.PNG)
+
+![gamescreen1](https://github.com/mariayurchenko/UnityProject/blob/master/Screen/2.PNG)
+
+![gamescreen2](https://github.com/mariayurchenko/UnityProject/blob/master/Screen/3.PNG)
+
+![gamescreen2](https://github.com/mariayurchenko/UnityProject/blob/master/Screen/mainmenu.PNG)
